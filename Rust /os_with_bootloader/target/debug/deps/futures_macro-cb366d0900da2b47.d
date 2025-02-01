@@ -1,0 +1,9 @@
+/Users/anslem/Documents/Lecture Notes/Operating Systems/codes/OperatingSystems-CSC308/Rust /os_with_bootloader/target/debug/deps/libfutures_macro-cb366d0900da2b47.dylib: /Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/lib.rs /Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/executor.rs /Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/join.rs /Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/select.rs /Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/stream_select.rs
+
+/Users/anslem/Documents/Lecture Notes/Operating Systems/codes/OperatingSystems-CSC308/Rust /os_with_bootloader/target/debug/deps/futures_macro-cb366d0900da2b47.d: /Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/lib.rs /Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/executor.rs /Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/join.rs /Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/select.rs /Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/stream_select.rs
+
+/Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/lib.rs:
+/Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/executor.rs:
+/Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/join.rs:
+/Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/select.rs:
+/Users/anslem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-macro-0.3.31/src/stream_select.rs:

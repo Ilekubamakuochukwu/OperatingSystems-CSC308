@@ -1,0 +1,7 @@
+/Users/anslem/Documents/Lecture Notes/Operating Systems/codes/OperatingSystems-CSC308/Rust /os_with_bootloader/target/x86_64-unknown-none/debug/deps/Kernel_with_bootloader-6185cbe987157815: Kernel_with_bootloader/src/main.rs Kernel_with_bootloader/src/writer.rs Kernel_with_bootloader/src/writer/constants.rs
+
+/Users/anslem/Documents/Lecture Notes/Operating Systems/codes/OperatingSystems-CSC308/Rust /os_with_bootloader/target/x86_64-unknown-none/debug/deps/Kernel_with_bootloader-6185cbe987157815.d: Kernel_with_bootloader/src/main.rs Kernel_with_bootloader/src/writer.rs Kernel_with_bootloader/src/writer/constants.rs
+
+Kernel_with_bootloader/src/main.rs:
+Kernel_with_bootloader/src/writer.rs:
+Kernel_with_bootloader/src/writer/constants.rs:
